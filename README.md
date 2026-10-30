@@ -30,10 +30,10 @@ I build resilient, high-throughput backend services and distributed systems. My 
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Java, TypeScript, JavaScript, SQL |
-| **Backend & Architecture** | Spring Boot, Spring Cloud, Spring Security, NestJS, Node.js, Express.js, REST, WebSockets |
-| **Datastores & Caching** | PostgreSQL, Redis, MySQL, MongoDB |
-| **Infra & Observability** | Docker, AWS, Prometheus, Grafana, Git, JUnit |
+| **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,ts,js" alt="Java, TypeScript, JavaScript" /></a> |
+| **Backend & Architecture** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,express" alt="Spring, NestJS, Node.js, Express" /></a> |
+| **Datastores & Caching** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb" alt="PostgreSQL, Redis, MySQL, MongoDB" /></a> |
+| **Infra & Observability** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,prometheus,grafana,git" alt="Docker, AWS, Prometheus, Grafana, Git" /></a> |
 
 ---
 
